@@ -34,6 +34,7 @@ pytz
 pytz-deprecation-shim
 requests
 scipy
+scikit-learn
 semver
 six
 sklearn
