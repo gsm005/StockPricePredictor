@@ -37,7 +37,6 @@ scipy
 scikit-learn
 semver
 six
-sklearn
 smmap
 streamlit
 toml
