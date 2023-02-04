@@ -33,7 +33,6 @@ python-dateutil
 pytz
 pytz-deprecation-shim
 requests
-rich
 scipy
 semver
 six
