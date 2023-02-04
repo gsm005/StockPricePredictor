@@ -7,7 +7,7 @@ charset-normalizer
 click
 colorama
 contourpy
-cycler=
+cycler
 decorator
 entrypoints
 fonttools
