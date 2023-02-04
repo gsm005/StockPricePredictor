@@ -39,7 +39,6 @@ six
 sklearn
 smmap
 streamlit
-streamlit-lottie
 toml
 toolz
 tornado
