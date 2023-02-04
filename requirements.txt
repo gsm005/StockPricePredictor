@@ -6,7 +6,6 @@ certifi
 charset-normalizer
 click
 colorama
-contourpy
 cycler
 decorator
 entrypoints
