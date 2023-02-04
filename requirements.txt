@@ -19,7 +19,6 @@ jsonschema
 kiwisolver
 MarkupSafe
 matplotlib
-mdurl
 numpy
 packagin
 pandas
