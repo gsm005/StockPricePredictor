@@ -1,0 +1,9 @@
+# virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.eggs/
