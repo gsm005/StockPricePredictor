@@ -20,7 +20,6 @@ kiwisolver
 MarkupSafe
 matplotlib
 numpy
-packagin
 pandas
 Pillow
 protobuf
