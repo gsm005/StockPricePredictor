@@ -17,7 +17,6 @@ importlib-metadata
 Jinja2
 jsonschema
 kiwisolver
-markdown-it-py
 MarkupSafe
 matplotlib
 mdurl
