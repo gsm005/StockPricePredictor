@@ -50,3 +50,4 @@ validators
 watchdog
 xgboost
 zipp
+streamlit_lottie
