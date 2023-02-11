@@ -27,7 +27,7 @@ def predict(Open,High,Low,Volume):
     y_new_predict=model.predict(x_new)
     return y_new_predict
 def main():
-        df=pd.read_csv("tesla.csv")
+        df=pd.read_csv("ADANIENT.csv")
         x=df.drop(['Close','Date','Adj Close'],axis=1)
         y=df['Close']
 
@@ -36,8 +36,8 @@ def main():
             l_col,r_col=st.columns(2)
             with l_col:
                 st.subheader("Hi,This is Stock Price Predicton System")
-                st.title("Tesla Share Price Predictor")
-                st.write("This model is trained using XGBoost Regressor model. This site is for educational purpose.Invest with your own risks.")
+                st.title("Adani Enterprise Share Price Predictor")
+                st.write("Similar to CHATGPT this predictor uses Machine learning to predict the stock price of the stock. This is a one stop tool for your trading.This site is for educational purpose.Invest with your own risks.")
                 Open = float(st.number_input("Enter the Open value:", None, step=0.01))
                 High = float(st.number_input("Enter the High value:", None, step=0.01))
                 Low = float(st.number_input("Enter the Low value:", None, step=0.01))
